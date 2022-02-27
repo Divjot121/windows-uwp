@@ -13,7 +13,7 @@ ms.date: 02/14/2022
 
 Windows Subsystem for Android™️ enables your Windows 11 device to run Android applications that are available in the Amazon Appstore. Android is a trademark of Google LLC. If you're a developer interested in targeting Windows desktop devices and optimizing for the Windows operating system, this guide is for you.
 
-To make your Android app available on Windows 11 devices, you must:
+To make your Android app available on Windows 11 devices, you must: submit
 
 - [Submit your app to the Amazon Appstore](https://developer.amazon.com/docs/app-submission/getting-started.html).
 
